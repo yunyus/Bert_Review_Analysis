@@ -30,7 +30,7 @@ review_sentiment_analysis/
    pip install -r requirements.txt
    ```
 
-3. Place your dataset in the `data` directory. The dataset should be a CSV file named `reviews_comments_stars.csv`.
+3. Place your dataset in the `data` directory. The dataset should be a CSV file named `reviews_comments_stars.csv`. The column names should be `stars` and `comments`.
 
 ## Usage
 
