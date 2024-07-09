@@ -55,3 +55,5 @@ or
 ```
 python src/inference.py --dataset "data/reviews_comments_stars.csv"
 ```
+
+To train the model, you can use the following dataset: https://www.kaggle.com/datasets/yusufkesmenn/hepsiburada-product-reviews-and-ratings-dataset
